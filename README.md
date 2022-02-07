@@ -1,3 +1,5 @@
+#### live: https://gsg-g11.github.io/closures-abstraction-exercise/
+
 # Stage 1: Final Exercise
 
 This is the final exercise of stage 1. You have been given a small working app. To try it out, open the `index.html` file in this directory in your browser.
